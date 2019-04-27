@@ -1,0 +1,26 @@
+body{
+    background-color: #fffae6;
+    color: black;
+}
+h2{
+    color: midnightblue;
+}
+/* # preceeds an id */ 
+#Loginform{
+    margin-left: 200px;
+    margin-top: 50px;
+
+}
+#btn{
+    width:10%;
+    margin-top: 10px;
+    background-color: peru;
+    border: 0;
+    text-transform: uppercase;
+    padding: 5px;
+    color: palegoldenrod;
+}
+.form-group{
+    color: orangered;
+    margin-top: 15px;
+}
